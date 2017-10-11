@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Alfred", "EARoot/EA1/EA10.htm", "3.png", "4", "0", "", "Logical diagram0","{A2122B4A-9D1D-48f7-AAF2-56E834EA1E60}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "Logger", "EARoot/EA1/EA13.htm", "5.png", "E17", "0", "", "Class0","{465A21FB-B790-4b39-8BB4-F5A025C177E0}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "LoggerFatal", "EARoot/EA1/EA14.htm", "5.png", "E15", "0", "", "Class0","{B24B5C27-6D86-400f-B93A-5A4930F98356}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "NonCopyable", "EARoot/EA1/EA15.htm", "5.png", "E22", "0", "", "Class0","{848E118B-1EB7-4683-8A8D-2EF167214118}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "Random", "EARoot/EA1/EA16.htm", "5.png", "E20", "0", "", "Class0","{69A8AE28-510C-42be-A3D5-9ED6C1476BEC}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "«struct» Singleton", "EARoot/EA1/EA17.htm", "5.png", "E21", "0", "", "Class0","{626D78CE-68C1-4c9b-A9F4-7105C0927111}");
+tocTab[tocTab.length] = new Array("0.1:7", "", "Timer", "EARoot/EA1/EA18.htm", "5.png", "E19", "0", "", "Class0","{67EBEA47-F48B-4e18-B590-3464E8266C77}");
+tocTab[tocTab.length] = new Array("0.1:8", "", "TimerCheckpointAlreadyExist", "EARoot/EA1/EA19.htm", "5.png", "E18", "0", "", "Class0","{05146A5D-C302-4d04-878F-1A3D09A9FD71}");
+tocTab[tocTab.length] = new Array("0.1:9", "", "«Enumeration» level", "EARoot/EA1/EA20.htm", "247.png", "E16", "E17", "", "Enumeration0","{630D9329-0FCD-46a0-9DA9-0D40E27FDCF0}");

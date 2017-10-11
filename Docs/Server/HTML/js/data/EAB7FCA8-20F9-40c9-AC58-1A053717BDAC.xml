@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Plugin", "EARoot/EA4/EA36.htm", "3.png", "5", "0", "", "Logical diagram0","{911E8145-4E76-4eb4-B8C4-F6B56921D04F}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "IPlugin", "EARoot/EA4/EA39.htm", "5.png", "E25", "0", "", "Class0","{3DE1BAFE-9745-4b9e-AE27-0E2E82294A79}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "«struct» PluginReturn", "EARoot/EA4/EA40.htm", "5.png", "E24", "0", "", "Class0","{CAE2A904-5281-4d17-8436-8027F60E10F5}");

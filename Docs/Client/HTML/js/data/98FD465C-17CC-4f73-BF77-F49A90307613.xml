@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "Controller", "EARoot/EA1/EA2/EA22.htm", "3.png", "18", "0", "", "Logical diagram0","{5ED56B42-2463-4b63-8BB6-EA9CF60B199C}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "Chat", "EARoot/EA1/EA2/EA25.htm", "5.png", "E236", "0", "", "Class0","{BD2FB49D-29EF-40c1-A6D2-27DB2D87DA12}");
+tocTab[tocTab.length] = new Array("0.1.2:3", "", "ClientCore", "EARoot/EA1/EA2/EA26.htm", "5.png", "E239", "0", "", "Class0","{7CC07487-B1CF-47d8-BCAB-1C214BC00B29}");
+tocTab[tocTab.length] = new Array("0.1.2:4", "", "IClient", "EARoot/EA1/EA2/EA27.htm", "5.png", "E237", "0", "", "Class0","{EDF66626-FC8A-4553-9FC1-9131207A6F1F}");
+tocTab[tocTab.length] = new Array("0.1.2:5", "", "«struct» Message", "EARoot/EA1/EA2/EA28.htm", "5.png", "E235", "0", "", "Class0","{108F6FDD-2B7C-4a69-BEFB-A3C2FA3F0B7C}");
+tocTab[tocTab.length] = new Array("0.1.2:6", "", "«struct» UserInfo", "EARoot/EA1/EA2/EA29.htm", "5.png", "E238", "0", "", "Class0","{6F64C2BD-1BF9-4a88-B15D-FFEA4A645D10}");

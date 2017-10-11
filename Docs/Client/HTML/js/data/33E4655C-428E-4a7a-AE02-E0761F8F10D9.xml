@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.1.7:1", "", "View", "EARoot/EA1/EA7/EA112.htm", "3.png", "22", "0", "", "Logical diagram0","{C4A89938-6A01-4e0c-9CC0-7E28ED69F3CF}");
+tocTab[tocTab.length] = new Array("0.1.7:2", "", "«Enumeration» Action", "EARoot/EA1/EA7/EA115.htm", "247.png", "E312", "0", "", "Enumeration0","{A272B395-0AD9-4dd3-A350-2A5970EB42DE}");
+tocTab[tocTab.length] = new Array("0.1.7:3", "", "«struct» ActionData", "EARoot/EA1/EA7/EA116.htm", "5.png", "E313", "0", "", "Class0","{1721B74C-0A12-49dc-A175-EC29022B0681}");
+tocTab[tocTab.length] = new Array("0.1.7:4", "", "Button", "EARoot/EA1/EA7/EA117.htm", "5.png", "E308", "0", "", "Class0","{ACD6DD06-6BF2-4328-8325-23ACBC1062D4}");
+tocTab[tocTab.length] = new Array("0.1.7:5", "", "Graphics", "EARoot/EA1/EA7/EA118.htm", "5.png", "E317", "0", "", "Class0","{0A733210-D4F6-4a9c-8FA9-E45238F2B406}");
+tocTab[tocTab.length] = new Array("0.1.7:6", "", "IGraphics", "EARoot/EA1/EA7/EA119.htm", "5.png", "E309", "0", "", "Class0","{61F15C83-BE7B-4e76-8C34-81A207F56AE6}");
+tocTab[tocTab.length] = new Array("0.1.7:7", "", "IWindow", "EARoot/EA1/EA7/EA120.htm", "5.png", "E315", "0", "", "Class0","{68BD03E4-5128-4f33-8C11-B74CBA5F3145}");
+tocTab[tocTab.length] = new Array("0.1.7:8", "", "IZone", "EARoot/EA1/EA7/EA121.htm", "5.png", "E318", "0", "", "Class0","{F8C04F44-F1F0-4864-97FF-1AFFAC595A84}");
+tocTab[tocTab.length] = new Array("0.1.7:9", "", "Label", "EARoot/EA1/EA7/EA122.htm", "5.png", "E310", "0", "", "Class0","{0EAF6BF3-E6E7-4c9c-A5E2-DD779D1D9AC6}");
+tocTab[tocTab.length] = new Array("0.1.7:10", "", "TextArea", "EARoot/EA1/EA7/EA123.htm", "5.png", "E311", "0", "", "Class0","{4176FE4D-6BBB-48fc-90C6-A48BF4A8F95B}");
+tocTab[tocTab.length] = new Array("0.1.7:11", "", "TextBoxArea", "EARoot/EA1/EA7/EA124.htm", "5.png", "E316", "0", "", "Class0","{6B399118-BB67-437b-A538-85AB53C35770}");
+tocTab[tocTab.length] = new Array("0.1.7:12", "", "Window", "EARoot/EA1/EA7/EA125.htm", "5.png", "E314", "0", "", "Class0","{A04A06E4-8AE5-4848-8B08-E775C3BC8D91}");
+tocTab[tocTab.length] = new Array("0.1.7:13", "", "«Enumeration» ZoneType", "EARoot/EA1/EA7/EA126.htm", "247.png", "E319", "0", "", "Enumeration0","{A6427D53-96A9-46ef-A47F-60D07E8F6EFD}");

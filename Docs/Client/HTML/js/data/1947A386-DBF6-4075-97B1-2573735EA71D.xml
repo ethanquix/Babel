@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Network", "EARoot/EA1/EA3/EA30.htm", "3.png", "21", "0", "", "Logical diagram0","{95F4A2D1-57A7-4b5c-8798-D23FE03E8919}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "BindFailed", "EARoot/EA1/EA3/EA33.htm", "5.png", "E299", "0", "", "Class0","{8A0C4B29-30BC-443d-A8CA-655997969874}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "«struct» ConnectionInfo", "EARoot/EA1/EA3/EA34.htm", "5.png", "E300", "0", "", "Class0","{E35DAFB2-F6F9-4c40-8A4F-25884A0E2176}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "«Enumeration» ConnectionMode", "EARoot/EA1/EA3/EA35.htm", "247.png", "E301", "0", "", "Enumeration0","{93F73954-6424-4763-9B22-F412C4B4AFBC}");
+tocTab[tocTab.length] = new Array("0.1.3:5", "", "HostUDP", "EARoot/EA1/EA3/EA36.htm", "5.png", "E303", "0", "", "Class0","{1D18BFFA-1A4D-45bc-86B3-7C252C285480}");
+tocTab[tocTab.length] = new Array("0.1.3:6", "", "IHostNetwork", "EARoot/EA1/EA3/EA37.htm", "5.png", "E306", "0", "", "Class0","{6DC6CDA3-9B2D-419a-83A9-AF6AB773AB0A}");
+tocTab[tocTab.length] = new Array("0.1.3:7", "", "INetworkClient", "EARoot/EA1/EA3/EA38.htm", "5.png", "E302", "0", "", "Class0","{50C58D4C-E365-490a-8307-B2C4335C7A6D}");
+tocTab[tocTab.length] = new Array("0.1.3:8", "", "ISenderNetwork", "EARoot/EA1/EA3/EA39.htm", "5.png", "E304", "0", "", "Class0","{FB1C931D-2C42-40e8-91AF-0D4AA3912268}");
+tocTab[tocTab.length] = new Array("0.1.3:9", "", "qtNetwork", "EARoot/EA1/EA3/EA40.htm", "5.png", "E305", "0", "", "Class0","{37E6EA13-B4BB-4620-BF47-D7156280CF62}");
+tocTab[tocTab.length] = new Array("0.1.3:10", "", "SenderUDP", "EARoot/EA1/EA3/EA41.htm", "5.png", "E298", "0", "", "Class0","{E8F9DFF8-CF79-4350-BF1C-79EB1E1186A2}");

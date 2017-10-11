@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.6:1", "", "Sound", "EARoot/EA1/EA6/EA103.htm", "3.png", "24", "0", "", "Logical diagram0","{3895D252-098E-412a-9D74-1A9D0FAE8044}");
+tocTab[tocTab.length] = new Array("0.1.6:2", "", "«alias» EncodedSound", "EARoot/EA1/EA6/EA106.htm", "5.png", "E333", "0", "", "Class0","{E6336EED-4DB2-4baa-B854-9615F2F3F5A4}");
+tocTab[tocTab.length] = new Array("0.1.6:3", "", "ISoundCodec", "EARoot/EA1/EA6/EA107.htm", "5.png", "E335", "0", "", "Class0","{F333E222-3546-4930-9840-9817E6403A4C}");
+tocTab[tocTab.length] = new Array("0.1.6:4", "", "ISoundStream", "EARoot/EA1/EA6/EA108.htm", "5.png", "E331", "0", "", "Class0","{B34843C1-11D3-4ba1-946A-738898015477}");
+tocTab[tocTab.length] = new Array("0.1.6:5", "", "OpusCodec", "EARoot/EA1/EA6/EA109.htm", "5.png", "E332", "0", "", "Class0","{6CCB4B56-34B2-449b-BA0D-2461891716B2}");
+tocTab[tocTab.length] = new Array("0.1.6:6", "", "PortAudioStream", "EARoot/EA1/EA6/EA110.htm", "5.png", "E330", "0", "", "Class0","{857AB341-2CBC-4eac-8EFE-D2397FC4101A}");
+tocTab[tocTab.length] = new Array("0.1.6:7", "", "«alias» RawSound", "EARoot/EA1/EA6/EA111.htm", "5.png", "E334", "0", "", "Class0","{1035DDF3-59BF-42e5-8B54-CEEBAF385BE1}");

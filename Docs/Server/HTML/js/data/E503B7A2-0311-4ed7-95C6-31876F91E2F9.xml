@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Class Model", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{B8C5D656-9C1E-4fcb-81C5-4F5CBC51AA76}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Alfred", "EARoot/EA1/EA12.htm", "4.png", "", "", "{360E35BB-8905-4457-B1FF-31F00D22B784}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Database", "EARoot/EA2/EA23.htm", "4.png", "", "", "{4886F9A3-4C8F-4084-A97F-F50A907F7922}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Network", "EARoot/EA3/EA29.htm", "4.png", "", "", "{84B2DA94-B709-4a02-9813-20181DAF3119}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Plugin", "EARoot/EA4/EA38.htm", "4.png", "", "", "{EAB7FCA8-20F9-40c9-AC58-1A053717BDAC}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Protocol", "EARoot/EA5/EA43.htm", "4.png", "", "", "{DBEE737F-6780-4ef1-9C31-DFD77A967B77}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Server", "EARoot/EA6/EA99.htm", "4.png", "", "", "{19DA43FE-4C52-474b-9217-9E66A9F1756B}", "Package");

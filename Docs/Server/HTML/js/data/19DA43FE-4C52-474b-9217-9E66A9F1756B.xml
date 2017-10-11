@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6:1", "", "Server", "EARoot/EA6/EA97.htm", "3.png", "7", "0", "", "Logical diagram0","{47BDB1B8-C09F-4395-9845-DE8CC3DDBF65}");
+tocTab[tocTab.length] = new Array("0.6:2", "", "Chat", "EARoot/EA6/EA100.htm", "5.png", "E84", "0", "", "Class0","{B145A6B7-AF62-4cc0-9013-D80695535439}");
+tocTab[tocTab.length] = new Array("0.6:3", "", "ConvInfo", "EARoot/EA6/EA101.htm", "5.png", "E86", "0", "", "Class0","{A25616C2-B564-45c7-9550-1056C2473720}");
+tocTab[tocTab.length] = new Array("0.6:4", "", "IServer", "EARoot/EA6/EA102.htm", "5.png", "E85", "0", "", "Class0","{6EB0BC8C-8D2B-43cd-8D48-DF0C25AC1D0B}");
+tocTab[tocTab.length] = new Array("0.6:5", "", "«struct» Message", "EARoot/EA6/EA103.htm", "5.png", "E88", "0", "", "Class0","{B768CB62-1C37-46b9-B447-FEEC3FBD0C69}");
+tocTab[tocTab.length] = new Array("0.6:6", "", "ServerCore", "EARoot/EA6/EA104.htm", "5.png", "E83", "0", "", "Class0","{E49364F4-24DF-4bfc-B5F7-5A393C8E73BF}");
+tocTab[tocTab.length] = new Array("0.6:7", "", "«struct» UserInfo", "EARoot/EA6/EA105.htm", "5.png", "E87", "0", "", "Class0","{A967CFAD-AE90-4f70-AE65-483CC9FFB2DC}");
+tocTab[tocTab.length] = new Array("0.6:8", "", "«alias» ID", "EARoot/EA6/EA106.htm", "5.png", "E82", "E83", "", "Class0","{3700A5A2-7561-4c0f-A2A2-D85B66A64547}");
+tocTab[tocTab.length] = new Array("0.6:9", "", "«alias» Username", "EARoot/EA6/EA107.htm", "5.png", "E81", "E83", "", "Class0","{1972562F-7825-42e9-997B-F879D6A30194}");

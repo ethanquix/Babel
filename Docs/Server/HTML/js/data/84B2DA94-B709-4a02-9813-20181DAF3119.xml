@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Network", "EARoot/EA3/EA27.htm", "3.png", "8", "0", "", "Logical diagram0","{5E75442E-70C3-4c89-8F8E-EFAB71988636}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "BindFailed", "EARoot/EA3/EA30.htm", "5.png", "E92", "0", "", "Class0","{EEB874EB-5BB6-4bc5-A354-61CB9A52C67C}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "«struct» ConnectionInfo", "EARoot/EA3/EA31.htm", "5.png", "E94", "0", "", "Class0","{385064A2-5DC9-42b1-AA55-6A70B06934C9}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "«Enumeration» ConnectionMode", "EARoot/EA3/EA32.htm", "247.png", "E93", "0", "", "Enumeration0","{E1BBF9A6-EAD5-45b8-A546-B927B5CE8080}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "IServerCommunicator", "EARoot/EA3/EA33.htm", "5.png", "E95", "0", "", "Class0","{51D0518E-D425-450d-864A-9B66525EDE3A}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "TCPBoost", "EARoot/EA3/EA34.htm", "5.png", "E91", "0", "", "Class0","{9300C848-7223-4191-AF4D-AF181B382FF2}");
+tocTab[tocTab.length] = new Array("0.3:7", "", "TCPBoostSession", "EARoot/EA3/EA35.htm", "5.png", "E97", "0", "", "Class0","{DDB7C452-89F0-4c9f-A9CC-DC6C811F2BDD}");
