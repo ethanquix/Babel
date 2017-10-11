@@ -1,6 +1,6 @@
-﻿#Babel
+﻿# Babel
 
-##Objectif -> Créer un service client et serveur s'inspirant de Skype en C++
+## Objectif -> Créer un service client et serveur s'inspirant de Skype en C++
 
 ```
 - Voip (encodage et décodage de l'audio mais aussi capture et stream)
@@ -24,7 +24,7 @@ Nous avons passé beaucoup de temps a discuter de l'architecture du projet et en
 > Notre implémentation va nous permettre de très facilement changer de module graphique par exemple, mais aussi de module réseau.
 De même pour le module base de données, nous avons actuellement une base de données implémentée grace a boost archive, mais si un jour notre projet décolle, nous pouvons passer sur du sql sans rien avoir a changer dans les interfaces ou les autres modules. Il suffira juste d'hériter de l'interface IDatabase et implémenter cela.
 
-##Server
+## Server
 
 Le serveur peut être découpé en 3gros modules.
 
@@ -40,13 +40,13 @@ Mais cela a quelques inconvénients:
 
 ![callback example](https://i.imgur.com/kvA3Ief.png)
 
-####Implémentation:
+#### Implémentation:
 ```
 - Réseau: Boost Asio
 - Base de données: Boost archive
 ```
 
-##Client
+## Client
 
 Le client peut lui être découpé en 5gros modules.
 
@@ -60,7 +60,7 @@ Comme pour le serveur, le Controller (ou Core) va appeller les différents autre
 
 ![button example](https://i.imgur.com/pTJO2FG.png)
 
-####Implémentation:
+#### Implémentation:
 ```
 - Réseau: QT Network
 - Graphique: QT
@@ -68,16 +68,16 @@ Comme pour le serveur, le Controller (ou Core) va appeller les différents autre
 - Stream / Recording: PortAudio 
 ```
 
-##Protocole
+## Protocole
 
 Pour toutes les communications réseau, nous avons mis en place un protocole que nous avons en pièce jointe
 
-##Build System
+## Build System
 
 Cmake est utilisé pour compiler le projet.
 
 
-##Unit Test
+## Unit Test
 
 Nous avons mis en place des test unitaires avec Google Test. De plus, a chaque push, TeamCity va lancer un build et executer les tests, puis nous communiquer le résultat
 
@@ -85,7 +85,7 @@ Nous avons mis en place des test unitaires avec Google Test. De plus, a chaque p
 
 ![gtest](https://i.imgur.com/2ixdXof.png)
 
-##Communication et répartition du travail
+## Communication et répartition du travail
 
 Nous utilisons Youtrack, qui nous permet ainsi de créer un board kanban et de nous répartir le travail.
 De plus, étant lié a TeamCity, a chaque test échoué, ce dernier crée automatiquement une nouvelle tache
@@ -94,7 +94,7 @@ De plus, étant lié a TeamCity, a chaque test échoué, ce dernier crée automa
 
 Pour communiquer nous avons utilisé Slack et Discord, avec un plugin github qui prévient a chaque push
 
-##Code Review
+## Code Review
 
 Nous utilisons Upsource en outil de code review. Ce dernier s'intègre parfaitement a Youtrack mais aussi a l'IDE utilisé (Clion) et permet de faire de la code review directement dans l'IDE
 
